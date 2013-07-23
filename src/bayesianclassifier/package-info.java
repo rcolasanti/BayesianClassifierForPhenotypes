@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author ric
+ *
+ */
+package bayesianclassifier;
